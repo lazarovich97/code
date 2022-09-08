@@ -1,0 +1,85 @@
+body{
+    background-color:#d2d48c;
+    color:#000000 ;
+    font-size: 20px;
+    font-weight: 600;
+    font-family:"Raboto" sans-serif;
+    a {
+        color:black;
+        text-decoration: none;
+    }
+    a :hover{text-decoration: underline;
+
+    }
+
+
+}
+h1{color:red;}
+.avatar{width:auto;
+    height:auto;
+    border-radius:15px;
+
+}
+.logo{width: 200px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 4px 14px rgba(0, 0, 0, 0, 25);
+}
+.info h2 {
+    color: #490505;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:none ;
+}
+.container{
+    max-width:100%;
+    margin: auto;
+    padding: 30px;
+}
+.social {
+    background:rgb(116, 153, 170);
+    padding: 25px;
+    border: 3px solid rgb(36, 33, 33);
+    margin: 7px;
+}
+.card{
+    padding: 15px 20px;
+    background: rgb(125, 178, 199);
+    margin-bottom: 20px;
+    border-radius: ;
+}
+.cart{
+    padding: 15px 20px;
+    background: rgb(100, 175, 169);
+    margin-bottom: 20px;
+}
+.moto{
+    padding: 15px 20px;
+    background: rgb(171, 201, 103);
+    margin-bottom: 20px;
+}
+.table tr:nth-child(
+
+){
+    padding-bottom: 10px;
+    }
+    .contact{
+        text-align: left;
+
+    }
+    .form-grup{
+        display: block;
+        font-size: 14px;
+
+    }
+    .info{
+        display: text;
+    }
+    @media (max-wight:700px;
+    )
+    .btn{
+        
+    }
+    .btn :hover{
+        opacity: 0.9;
+
+    }
